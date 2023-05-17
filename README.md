@@ -1,5 +1,6 @@
 # multilinear-regression
 multilinear regression assignment
+
 question_1:
 Prepare a prediction model for profit of 50_startups data.
 Do transformations for getting better predictions of profit and
